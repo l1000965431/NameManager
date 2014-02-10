@@ -1,5 +1,5 @@
 #pragma once
-#include "common.h"
+#include "cocos2dx.h"
 
 class CNumberPicture : public cocos2d::CCLayer
 {
